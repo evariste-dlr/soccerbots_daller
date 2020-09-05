@@ -1,8 +1,8 @@
 # Team Daller pour Soccerbots
 
-Module Intelligence artificielle distribuée
-Université de Caen Normandie
-Évariste Daller
+Module Intelligence artificielle distribuée\
+Université de Caen Normandie\
+Évariste Daller\
 M1 Informatique 2015-2016
 
 Stratégie d'une équipe de robots footballeurs pour la simulation _Soccerbots_ de Teambots [https://www.cs.cmu.edu/~trb/TeamBots/](https://www.cs.cmu.edu/~trb/TeamBots/).
